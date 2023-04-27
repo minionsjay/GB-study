@@ -7,7 +7,7 @@
 
 ## 希尔伯特正则的定义
 
-在有限域  $\mathbb{F}$ 上，$R=\mathbb{x_0,...,x_{n-1}}$ 是一个多项式环， $i\subseteq R$ 是一个多项式理想。
+在有限域  $\mathbb{F}$ 上，$R=\mathbb{x_0,...,x_{n-1}}$ 是一个多项式环， $I\subseteq R$ 是一个多项式理想。
 
 一个商环 $R/I$ 的仿射Hilbert 函数 定义为
 $$
